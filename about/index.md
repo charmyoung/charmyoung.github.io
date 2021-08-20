@@ -14,9 +14,13 @@
 
   <img src="roborts.png" style="zoom:20%;display: inline-block; float:middle"/>
 
-  Whole project is based on ROS and open sourced [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/robomaster/roborts/)
+  Whole project is based on ROS and open sourced:
+  - ROS Navigation/Decision/Game Stack: [RoboRTS](https://github.com/robomaster/roborts)
+  - Latest ROS SDK: [RoboRTS-Base](https://github.com/robomaster/roborts-firmware)
+  - Embedded Firmware: [RoboRTS-Firmware](https://github.com/robomaster/roborts-firmware)
+  
 * :(fas fa-robot fa-fw): **RoboMaster S1/EP** : a game-changing educational robot built to unlock the potential in every learner. 
 
   <img src="ep.gif" style="zoom:100%;display: inline-block; float:middle"/> 
 
-  The robot is supported to program using Scratch and Python [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/dji-sdk/RoboMaster-SDK)
+  The robot is supported to program using Scratch and [Python SDK](https://github.com/dji-sdk/RoboMaster-SDK)
