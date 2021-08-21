@@ -16,7 +16,7 @@
 
   Whole project is based on ROS and open sourced:
   - ROS Navigation/Decision/Game Stack: [RoboRTS](https://github.com/robomaster/roborts)
-  - Latest ROS SDK: [RoboRTS-Base](https://github.com/robomaster/roborts-firmware)
+  - Latest ROS SDK: [RoboRTS-Base](https://github.com/robomaster/roborts-base)
   - Embedded Firmware: [RoboRTS-Firmware](https://github.com/robomaster/roborts-firmware)
   
 * :(fas fa-robot fa-fw): **RoboMaster S1/EP** : a game-changing educational robot built to unlock the potential in every learner. 
