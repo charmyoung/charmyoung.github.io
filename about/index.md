@@ -3,10 +3,10 @@
 
 ### News
 
-* :(fas fa-rocket fa-fw): **01/06/2021** The [RoboMaster University AI Challenge](http://2011.ieee-icra.org/competitions.html) is held in the IEEE International Conference on Robotics and Automation (ICRA), Xi'an
+* :(fas fa-rocket fa-fw): **01/06/2021** The [RoboMaster University AI Challenge](http://2011.ieee-icra.org/competitions.html) is held in the IEEE International Conference on Robotics and Automation (ICRA), Xi'an.
   <!-- {{< bilibili BV1gL411n7xV >}} -->
-* :(fas fa-plane fa-fw): **07/04/2021** Resigned and Graduated from DJI
-
+* :(fas fa-plane fa-fw): **07/04/2021** Resigned and Graduated from DJI.
+* :(fas fa-paper-plane fa-fw): **16/09/2021** Come to [ZJU FAST LAB](http://zju-fast.com/) as a research assistant!
 
 ### Projects
 
